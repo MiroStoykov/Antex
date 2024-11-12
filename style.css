@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: url(./picsSait/fon.jpg);
+}
+
+.navbarlogo {
+    height: 50px;
+}
+
+
+.s {
+    width: 1000px;
+    height: 1000px;
+    background-color: aqua;
+}
+
+.a {
+    width: 100%;
+    height: 1000px;
+    background-color: black;
+}
